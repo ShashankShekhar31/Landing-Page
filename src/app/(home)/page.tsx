@@ -73,7 +73,7 @@ export default function Home() {
               <span className="text-primary">Only in 40 Minutes!</span>
             </h1>
             <p className="text-2xl mt-8 max-w-lg leading-sung">
-              Enjoy a Free Meal if Your Order Takes More Than 40 Minutes!
+              Enjoy a Free Meal if Your Order Takes More Than <b>40</b> Minutes!
             </p>
             <Button className="mt-8 text-lg rounded-full py-7 px-6 font-bold">Get your pizza now 
             </Button>
