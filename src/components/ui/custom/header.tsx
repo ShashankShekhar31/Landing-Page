@@ -29,7 +29,7 @@ const Header = () => {
   </SelectTrigger>
   <SelectContent>
     <SelectItem value="cheesy-delight">Cheesy Delight</SelectItem>
-    <SelectItem value="dominos">Domino's</SelectItem>
+    <SelectItem value="dominos">Domino&apos;s</SelectItem>
     <SelectItem value="kids-corner">Kids Corner</SelectItem>
   </SelectContent>
 </Select>
